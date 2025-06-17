@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    margin: 100px 300px 100px 300px;
+}
+
+.post{
+    background-color: white;
+    box-sizing: border-box;
+}
+
+.post-header{
+    display: flex;
+}
+
+p{
+    margin-left: 10px;
+}
+
+.post-icons{
+    display: flex;
+}
+
+i{
+    font-size: 30px;
+    margin: 15px 0px 15px 15px;
+}
+
+#ellipsis{
+    margin-left: 615px;
+}
+
+img{
+    width: 100%;
+}
+
+#bookmark{
+    margin-left: 570px;
+}
